@@ -14,7 +14,7 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 
 3.Split the dataset into training and testing sets and train a Decision Tree Classifier using entropy criterion.
 
-4.Predict employee churn and evaluate the model accuracy using performance metrics.
+4.Predict employee churn and evaluate the model accuracy using performance metrics. 
 
 ## Program:
 ```
